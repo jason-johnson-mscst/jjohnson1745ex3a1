@@ -47,7 +47,7 @@ ul.topnav {
 ul.topnav li {
     margin: 0;
     position: relative; /*--Declare X and Y axis base--*/
-    list-style: none;
+    list-style: none; 
 }
 ul.topnav li span {
     padding: .5em 1.5em .5em 1.5em;
